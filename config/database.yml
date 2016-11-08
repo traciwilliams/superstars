@@ -1,0 +1,9 @@
+#a configuration file
+#specifing a default connection to our computer
+
+default:
+  adapter: mysql2
+  database: superstars
+  username: sinatra
+  password: workspace
+  host: localhost
